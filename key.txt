@@ -1,1 +1,0 @@
-kubeadm join 141.44.32.81:6443 --token peouf8.rrjpgztaeafwshlf --discovery-token-ca-cert-hash sha256:2803e5c3ddae4e448aaa0b26d78b2ac8a2bd9cd6f348a663c2744e7e1506f7af
